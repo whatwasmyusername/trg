@@ -1,0 +1,12 @@
+@import 'font-awesome.min.css';
+@font-face {
+  font-family: 'Frutiger';
+  src: url('fonts/Frutiger_57_Condensed.eot');
+  src: url('fonts/Frutiger_57_Condensed.eot?#iefix') format('embedded-typescript'), url('fonts/Frutiger_57_Condensed.woff2') format('woff2'), url('fonts/Frutiger_57_Condensed.woff') format('woff');
+}
+@font-face {
+  font-family: 'AGaramondPro';
+  src: url('fonts/AGaramondPro-Bold.eot');
+  src: url('fonts/AGaramondPro-Bold.eot?#iefix') format('embedded-typescript'), url('fonts/AGaramondPro-Bold.woff2') format('woff2'), url('fonts/AGaramondPro-Bold.woff') format('woff');
+  font-weight: bold;
+}
