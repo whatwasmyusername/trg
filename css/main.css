@@ -6,9 +6,10 @@
 }
 @font-face {
   font-family: 'AGaramondPro';
-  src: url('fonts/AGaramondPro-Bold.eot');
-  src: url('fonts/AGaramondPro-Bold.eot?#iefix') format('embedded-typescript'), url('fonts/AGaramondPro-Bold.woff2') format('woff2'), url('fonts/AGaramondPro-Bold.woff') format('woff');
-  font-weight: bold;
+  src: url('fonts/AGaramondPro-Regular.eot');
+  src: url('fonts/AGaramondPro-Regular.eot?#iefix') format('embedded-typescript'), url('fonts/AGaramondPro-Regular.woff2') format('woff2'), url('fonts/AGaramondPro-Regular.woff') format('woff');
+  font-style: normal;
+  font-weight: normal;
 }
 html {
   font-size: 1em;
@@ -64,9 +65,9 @@ h1,
 h2,
 h3,
 h4 {
-  font-weight: bold;
   font-family: 'AGaramondPro', serif;
   margin: 0;
+  font-weight: normal;
 }
 h1 {
   font-size: 5vw;
