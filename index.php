@@ -65,8 +65,8 @@ $this_page = urlencode(selfURL());
             <article>
                 <header>
                     <video width="960" controls autoplay>
-                      <source src="https://92c0a8860ed6f96fc90a-fecc07f2a991d0d68587de6370f58cc5.ssl.cf2.rackcdn.com/Westfield_v6.mp4" type="video/mp4">
-                      <source src="https://92c0a8860ed6f96fc90a-fecc07f2a991d0d68587de6370f58cc5.ssl.cf2.rackcdn.com/Westfield_v6.ogv" type="video/ogv">
+                      <source src="https://92c0a8860ed6f96fc90a-fecc07f2a991d0d68587de6370f58cc5.ssl.cf2.rackcdn.com/Westfield_v7.mp4" type="video/mp4">
+                      <source src="https://92c0a8860ed6f96fc90a-fecc07f2a991d0d68587de6370f58cc5.ssl.cf2.rackcdn.com/Westfield_v7.ogv" type="video/ogv">
                       Your browser does not support HTML5 video.
                     </video>
                 </section>
