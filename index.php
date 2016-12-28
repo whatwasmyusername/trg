@@ -66,7 +66,7 @@ $this_page = urlencode(selfURL());
             </div>
             <header class="clearfix">
                 <h1 class="title">Wrap the world in loving care this season.</h1>
-                <h2 class="sub-tite">Ring the bell and Westfield will give.</h2>
+                <h2 class="sub-tite">Since you “clicked,” Westfield will donate!</h2>
             </header>
         </div>
     </div>
@@ -85,18 +85,13 @@ $this_page = urlencode(selfURL());
                 <section>
                     <div class="wrapper">
                     <p>
-                        Every time you ring the bell, Westfield will donate $1 to Save the Children<sup>&reg;</sup> to support disaster response and recovery programming for children and families across the United States.
+                        Thank you for helping us reach a donation record for Westfield’s season of giving! With your help, Westfield will donate the amount below to Save the Children<sup>&reg;</sup> to support disaster response and recovery programming for children and families across the United States. Wishing you the very best in the coming new year!
                     </p>
                     <div class="row clearfix">
                         <div class="col-3">
-                            <a href="#" class="bells" data-mp3="https://92c0a8860ed6f96fc90a-fecc07f2a991d0d68587de6370f58cc5.ssl.cf2.rackcdn.com/058316593-christmas-bell-ring.mp3" data-ogg="https://92c0a8860ed6f96fc90a-fecc07f2a991d0d68587de6370f58cc5.ssl.cf2.rackcdn.com/058316593-christmas-bell-ring.ogg"><img 
-                                class="off-page" 
-                                src="images/bells.gif" 
-                                alt="Animated Bells" 
-                                style="position: absolute; left: -3000px;" /><img 
-                                class="animated" 
+                            <img 
                                 src="images/bells.png" 
-                                alt="Bells" /><br/>Click on the bells and we'll donate $1 on your behalf</a>
+                                alt="Bells" /></a>
                         </div>
                         <div class="col-3">
                             <?php include __DIR__.'/counter.php' ?>

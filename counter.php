@@ -1,12 +1,13 @@
 <div class="counter">
     <?php 
-    $f = __DIR__.'/count.txt';
-    if (file_exists($f)){
-        $number = file_get_contents($f);
-    }
-    else{
-        $number = 0;
-    }
+    // $f = __DIR__.'/count.txt';
+    // if (file_exists($f)){
+    //     $number = file_get_contents($f);
+    // }
+    // else{
+    //     $number = 0;
+    // }
+    $number = 25900;
     
     while(strlen($number) < 5){
         $number = '0' . $number;
